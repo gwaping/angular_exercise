@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "item 1",
+    "qty" : "12",
+    "price" : "2"
+  },
+  {
+    "name" : "item 2",
+    "qty" : "10",
+    "price" : "2"
+  },
+  {
+    "name" : "item 3",
+    "qty" : "8",
+    "price" : "2"
+  }
+]
